@@ -1,0 +1,19 @@
+footer{
+  margin: 0 0 30px 0;
+}
+.footer-body{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 125px;
+}
+.footer{
+  &__text{
+    font-size: 15px;
+    line-height: 24px;
+    color: #4d4d4d;
+  }
+  &__logo{
+
+  }
+}
